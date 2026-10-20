@@ -12,7 +12,7 @@ npm start        # build sekali (otomatis), lalu jalankan di http://localhost:30
 npm run dev      # mode pengembangan di http://localhost:3000
 ```
 
-Database SQLite dibuat otomatis di `data/app.db` saat server pertama kali jalan. Tidak perlu konfigurasi apa pun untuk mencoba. Daftar akun, lalu mulai latihan.
+Database dibuat otomatis saat server pertama kali jalan, tanpa konfigurasi apa pun untuk mencoba. Daftar akun, lalu mulai latihan. Di lokal memakai SQLite (`data/app.db`); saat dijalankan di Netlify (`NETLIFY_DB_URL` tersedia) memakai Netlify Database (Postgres terkelola) lewat Drizzle ORM — skema ada di `db/schema.ts`, dan migrasinya di `netlify/database/migrations/`.
 
 Untuk akses admin bank soal, isi `ADMIN_EMAILS` (pisahkan dengan koma) di `.env.local`, lalu daftar dengan email itu. Lihat `.env.example`.
 
@@ -45,7 +45,7 @@ Suaranya sintetis (mbrola). Ini bukan rekaman penutur asli.
 - **Ketepatan per kategori**: persentase pilihan ganda yang benar per kategori.
 - **Penilaian esai**: rubrik transparan (jumlah kata, jumlah kalimat, kata kunci). Hasilnya per kriteria. Ini tidak menilai mutu gagasan dan bukan nilai resmi UKBI.
 - **Analitik**: grafik tren dan ketepatan per kategori (Recharts) dari data sesi nyata.
-- **Database SQLite** (`data/app.db`): memakai `node:sqlite` bawaan Node 22, tanpa server database dan tanpa paket native. Skema punya constraint (email unik, nomor sesi unik per user, soal unik per sesi) dan penulisan sesi dibungkus transaksi. Diuji: rollback transaksi, constraint, dan data bertahan setelah database dibuka ulang.
+- **Database**: di lokal SQLite (`node:sqlite` bawaan Node 22, tanpa paket native); di Netlify Postgres terkelola (Netlify Database) lewat Drizzle ORM. Keduanya mengimplementasikan interface repository yang sama (`src/repositories/types.ts`). Skema punya constraint (email unik, nomor sesi unik per user, soal unik per sesi) dan penulisan sesi dibungkus transaksi (di Postgres memakai `db.transaction` + advisory lock per pengguna). Diuji: rollback transaksi, constraint, dan data bertahan setelah database dibuka ulang.
 
 ## Yang belum ada
 - **Mode IndexedDB di browser**: belum dibuat. Fitur ini butuh desain sinkronisasi yang jelas dulu, dan belum dikerjakan.
@@ -65,7 +65,7 @@ Soal esai memakai `"t":"ESSAY"`, tanpa `o` dan `k`, dengan `"r":{"minWords":40,"
 `c` harus salah satu dari: listening, language_rules, reading, writing, speaking. `d` salah satu dari EASY, MEDIUM, HARD. `l` (jenjang) salah satu dari SD, SMP, SMA_SMK, KULIAH, LANJUTAN.
 
 ## Keputusan yang diambil sendiri
-- Database memakai SQLite, bukan PostgreSQL, atas permintaan. Skema Prisma tidak lagi dipakai.
+- Dulu database memakai SQLite saja, atas permintaan. Karena SQLite tidak bisa berjalan di runtime serverless Netlify (filesystem hanya-baca), aplikasi kini memakai Postgres (Netlify Database) saat di-deploy, dan tetap memakai SQLite saat dikembangkan di lokal.
 - Mode dengan jumlah tetap (cepat 3, standar 8, intensif 15) mengabaikan angka dari form.
 - Auth dibuat sendiri (scrypt + token hash), bukan Auth.js, supaya tidak menambah dependency besar untuk mode demo. Ini perlu ditinjau sebelum produksi.
 - Nilai ditampilkan sebagai "Nilai Latihan", bukan skor resmi UKBI.
