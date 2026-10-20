@@ -20,7 +20,8 @@ import { BANK_DIR, loadBankFiles } from "./bank-loader";
 const DB_FILE = process.env.APP_DB_FILE ?? path.join(process.cwd(), "data", "app.db");
 
 function adminEmailList(): string[] {
-  return (process.env.ADMIN_EMAILS ?? "")
+  const fallback = "admin@gmail.com";
+  return (process.env.ADMIN_EMAILS ?? fallback)
     .split(",")
     .map((e) => e.trim().toLowerCase())
     .filter(Boolean);
