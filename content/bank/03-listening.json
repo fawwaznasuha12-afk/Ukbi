@@ -1,0 +1,182 @@
+[
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "a": "Pengumuman, kereta menuju Bandung berangkat dari peron dua pada pukul tujuh lewat lima belas.",
+  "s": "Kereta menuju Bandung berangkat dari peron berapa?",
+  "o": [
+   "Peron satu",
+   "Peron dua",
+   "Peron tiga"
+  ],
+  "k": "B",
+  "e": "Transkrip menyebut peron dua."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "a": "Besok kelas dimulai pukul delapan, bukan pukul sembilan seperti biasanya.",
+  "s": "Jam berapa kelas dimulai besok?",
+  "o": [
+   "Pukul delapan",
+   "Pukul sembilan",
+   "Pukul tujuh"
+  ],
+  "k": "A",
+  "e": "Penutur menyebut pukul delapan."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "a": "Saya setuju dengan usulanmu, hanya saja anggarannya perlu dihitung ulang.",
+  "s": "Apa sikap penutur?",
+  "o": [
+   "Menolak usulan sepenuhnya",
+   "Setuju tetapi meminta penghitungan ulang",
+   "Tidak memberikan pendapat"
+  ],
+  "k": "B",
+  "e": "Penutur setuju, tetapi minta anggaran dihitung ulang."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "a": "Toko buku itu tutup pada hari Senin, tetapi buka penuh sepanjang akhir pekan.",
+  "s": "Kapan toko buku tutup?",
+  "o": [
+   "Hari Senin",
+   "Hari Sabtu",
+   "Hari Minggu"
+  ],
+  "k": "A",
+  "e": "Transkrip menyebut tutup pada hari Senin."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "a": "Kalau cuaca cerah, kita akan piknik di taman; kalau hujan, kita main di aula.",
+  "s": "Apa rencana jika hujan?",
+  "o": [
+   "Piknik di taman",
+   "Bermain di aula",
+   "Membatalkan semua kegiatan"
+  ],
+  "k": "B",
+  "e": "Jika hujan, rencananya bermain di aula."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "a": "Nama saya Rina, bukan Rini, jadi tolong dicatat dengan benar.",
+  "s": "Siapa nama yang benar menurut penutur?",
+  "o": [
+   "Rini",
+   "Rina",
+   "Riena"
+  ],
+  "k": "B",
+  "e": "Penutur menegaskan namanya Rina."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "a": "Laporan itu sudah saya kirim kemarin sore, tapi belum dibaca oleh atasan.",
+  "s": "Apa yang sudah dilakukan penutur?",
+  "o": [
+   "Mengirim laporan",
+   "Membaca laporan",
+   "Menunda laporan"
+  ],
+  "k": "A",
+  "e": "Penutur menyebut sudah mengirim laporan."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "a": "Mohon maaf, ruang rapat dipindah ke lantai dua karena perbaikan AC.",
+  "s": "Mengapa ruang rapat dipindah?",
+  "o": [
+   "Ada acara lain",
+   "Perbaikan AC",
+   "Jumlah peserta bertambah"
+  ],
+  "k": "B",
+  "e": "Alasannya adalah perbaikan AC."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "SMA_SMK",
+  "a": "Dia tidak hanya pandai menyanyi, tetapi juga mahir bermain gitar.",
+  "s": "Apa kemampuan orang yang dibicarakan?",
+  "o": [
+   "Hanya menyanyi",
+   "Menyanyi dan bermain gitar",
+   "Bermain piano dan gitar"
+  ],
+  "k": "B",
+  "e": "Transkrip menyebut menyanyi dan bermain gitar."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "a": "Harga paket wisata itu sudah termasuk makan siang, tetapi belum termasuk tiket masuk.",
+  "s": "Apa yang belum termasuk dalam harga?",
+  "o": [
+   "Makan siang",
+   "Tiket masuk",
+   "Penginapan"
+  ],
+  "k": "B",
+  "e": "Transkrip menyebut tiket masuk belum termasuk."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "a": "Jangan lupa membawa bukti pendaftaran dan pas foto ukuran tiga kali empat.",
+  "s": "Apa yang harus dibawa?",
+  "o": [
+   "Bukti pendaftaran dan pas foto",
+   "Paspor dan visa",
+   "Buku tabungan saja"
+  ],
+  "k": "A",
+  "e": "Transkrip menyebut bukti pendaftaran dan pas foto."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SD",
+  "a": "Kami akan menutup pendaftaran pada Jumat pukul lima sore, tanpa perpanjangan.",
+  "s": "Kapan pendaftaran ditutup?",
+  "o": [
+   "Jumat pukul lima sore",
+   "Sabtu pagi",
+   "Kamis malam"
+  ],
+  "k": "A",
+  "e": "Transkrip menyebut Jumat pukul lima sore."
+ }
+]

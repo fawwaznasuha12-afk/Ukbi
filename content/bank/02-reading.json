@@ -1,0 +1,282 @@
+[
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Bacaan: Pasar pagi di kota kecil itu selalu ramai sejak subuh. Pedagang sayur datang lebih dulu agar mendapat tempat strategis. Apa gagasan utama bacaan?",
+  "o": [
+   "Pasar pagi ramai dan pedagang datang lebih awal",
+   "Pedagang sayur tidak pernah mendapat tempat",
+   "Kota kecil itu tidak memiliki pasar"
+  ],
+  "k": "A",
+  "e": "Bacaan menjelaskan keramaian pasar dan kebiasaan pedagang datang lebih dulu."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Bacaan: Hujan deras semalam membuat sungai meluap. Warga kemudian bergotong royong membersihkan jalan yang tertutup lumpur. Apa yang dilakukan warga setelah sungai meluap?",
+  "o": [
+   "Pindah ke kota lain",
+   "Membersihkan jalan dari lumpur",
+   "Membangun jembatan baru"
+  ],
+  "k": "B",
+  "e": "Teks menyebut warga membersihkan jalan yang tertutup lumpur."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Bacaan: Membaca buku cerita sebelum tidur membantu anak mengembangkan imajinasi. Kebiasaan ini juga dapat memperkaya kosakata mereka. Simpulan yang paling tepat dari bacaan adalah...",
+  "o": [
+   "Membaca sebelum tidur tidak berpengaruh",
+   "Kebiasaan membaca dapat mendukung perkembangan anak",
+   "Anak tidak menyukai buku cerita"
+  ],
+  "k": "B",
+  "e": "Bacaan menyebut manfaat membaca bagi imajinasi dan kosakata anak."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Bacaan: Koperasi sekolah menjual alat tulis dengan harga terjangkau. Keuntungannya digunakan untuk membeli buku perpustakaan. Untuk apa keuntungan koperasi digunakan?",
+  "o": [
+   "Membayar gaji guru",
+   "Membeli buku perpustakaan",
+   "Membangun kantin baru"
+  ],
+  "k": "B",
+  "e": "Teks menyebut keuntungan dipakai untuk buku perpustakaan."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Bacaan: Lebah memegang peran penting dalam penyerbukan tanaman. Tanpa lebah, banyak buah dan sayur akan sulit dihasilkan. Mengapa lebah penting bagi pertanian?",
+  "o": [
+   "Lebah hanya menghasilkan madu",
+   "Lebah membantu penyerbukan tanaman",
+   "Lebah menjaga kebun dari hama"
+  ],
+  "k": "B",
+  "e": "Teks menekankan peran lebah dalam penyerbukan."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Bacaan: Program literasi desa mengajak warga meminjam buku secara gratis. Peminjaman dicatat dalam buku registrasi sederhana. Bagaimana cara warga meminjam buku menurut bacaan?",
+  "o": [
+   "Dengan membayar iuran bulanan",
+   "Dengan peminjaman yang dicatat dalam buku registrasi",
+   "Dengan membeli buku baru"
+  ],
+  "k": "B",
+  "e": "Bacaan menyebut peminjaman gratis dan dicatat dalam buku registrasi."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "MEDIUM",
+  "l": "SD",
+  "s": "Bacaan: Banyak remaja kini menghabiskan waktu di depan layar. Para ahli menyarankan pembatasan waktu layar agar tidur dan konsentrasi tetap terjaga. Apa saran para ahli dalam bacaan?",
+  "o": [
+   "Menghilangkan semua gawai",
+   "Membatasi waktu layar",
+   "Menambah waktu tidur di siang hari"
+  ],
+  "k": "B",
+  "e": "Teks menyebut pembatasan waktu layar sebagai saran ahli."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Bacaan: Kopi tumbuh baik di dataran tinggi dengan curah hujan cukup. Petani biasanya memanen biji kopi ketika buahnya berwarna merah tua. Kapan petani biasanya memanen kopi?",
+  "o": [
+   "Ketika buah berwarna hijau",
+   "Ketika buah berwarna merah tua",
+   "Ketika musim kemarau panjang"
+  ],
+  "k": "B",
+  "e": "Teks menyebut panen saat buah merah tua."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Bacaan: Perpustakaan keliling datang ke tiga desa setiap minggu. Layanan ini membantu warga yang jauh dari perpustakaan tetap dapat membaca. Siapa yang paling terbantu oleh layanan itu?",
+  "o": [
+   "Warga yang tinggal jauh dari perpustakaan",
+   "Pengelola perpustakaan kota",
+   "Siswa yang tinggal di asrama"
+  ],
+  "k": "A",
+  "e": "Layanan dibuat untuk warga yang jauh dari perpustakaan."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "HARD",
+  "l": "SMA_SMK",
+  "s": "Bacaan: Rencana pembangunan jembatan ditunda karena anggaran belum disetujui. Warga kini harus memutar sekitar dua kilometer untuk sampai ke pasar. Simpulan yang tepat dari bacaan adalah...",
+  "o": [
+   "Jembatan sudah selesai dibangun",
+   "Warga harus memutar jauh karena jembatan belum ada",
+   "Pasar sudah pindah ke seberang sungai"
+  ],
+  "k": "B",
+  "e": "Jembatan belum dibangun, sehingga warga memutar sejauh dua kilometer."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "EASY",
+  "l": "SMP",
+  "s": "Bacaan: Sekolah itu mewajibkan siswa membawa botol minum sendiri. Kebijakan ini bertujuan mengurangi sampah plastik di lingkungan sekolah. Apa tujuan kebijakan tersebut?",
+  "o": [
+   "Menghemat biaya kantin",
+   "Mengurangi sampah plastik",
+   "Meningkatkan nilai ujian"
+  ],
+  "k": "B",
+  "e": "Teks menyebut tujuannya mengurangi sampah plastik."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Bacaan: Gotong royong adalah tradisi yang masih hidup di banyak desa. Melalui kegiatan bersama, warga mempererat hubungan dan menyelesaikan pekerjaan lebih cepat. Apa manfaat gotong royong yang disebut dalam bacaan?",
+  "o": [
+   "Mempererat hubungan dan mempercepat pekerjaan",
+   "Mengurangi jumlah warga desa",
+   "Menggantikan peran pemerintah"
+  ],
+  "k": "A",
+  "e": "Teks menyebut dua manfaat: mempererat hubungan dan menyelesaikan pekerjaan lebih cepat."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "MEDIUM",
+  "l": "SD",
+  "s": "Bacaan: Dalam wawancara kerja, kejelasan jawaban sering lebih dihargai daripada jawaban yang panjang. Pewawancara ingin memahami kemampuan kandidat dengan cepat. Menurut bacaan, apa yang lebih dihargai dalam wawancara?",
+  "o": [
+   "Jawaban yang panjang",
+   "Jawaban yang jelas",
+   "Penampilan yang mewah"
+  ],
+  "k": "B",
+  "e": "Teks menyebut kejelasan lebih dihargai."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "EASY",
+  "l": "SMP",
+  "s": "Bacaan: Gempa kecil terjadi tiga kali di wilayah itu minggu lalu. Badan penanggulangan bencana mengimbau warga tetap tenang dan memeriksa bangunan rumah. Apa imbauan badan penanggulangan bencana?",
+  "o": [
+   "Meninggalkan wilayah itu segera",
+   "Tetap tenang dan memeriksa bangunan",
+   "Membangun rumah baru dari beton"
+  ],
+  "k": "B",
+  "e": "Imbauan yang disebut: tetap tenang dan memeriksa bangunan."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "HARD",
+  "l": "SMA_SMK",
+  "s": "Bacaan: Teh hijau diproses dengan cara menghindari oksidasi daun. Karena itu, warna dan rasanya cenderung lebih segar dibanding teh hitam. Mengapa teh hijau cenderung lebih segar?",
+  "o": [
+   "Karena daunnya dibiarkan teroksidasi",
+   "Karena proses produksinya menghindari oksidasi",
+   "Karena dicampur bunga melati"
+  ],
+  "k": "B",
+  "e": "Penyebabnya adalah proses yang menghindari oksidasi."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Bacaan: Pekerja kantoran yang rutin berjalan kaki selama lima belas menit setiap hari cenderung lebih bugar. Kebiasaan sederhana ini mudah dilakukan tanpa biaya. Apa yang dikatakan bacaan tentang kebiasaan berjalan kaki?",
+  "o": [
+   "Mahal dan sulit dilakukan",
+   "Sederhana dan tanpa biaya",
+   "Hanya cocok untuk atlet"
+  ],
+  "k": "B",
+  "e": "Teks menyebut kebiasaan itu sederhana dan tanpa biaya."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Bacaan: Museum kota menambah jam buka pada akhir pekan. Pengunjung kini dapat datang setelah pulang kerja hingga pukul sembilan malam. Perubahan apa yang dilakukan museum?",
+  "o": [
+   "Menutup museum pada akhir pekan",
+   "Menambah jam buka pada akhir pekan",
+   "Memindahkan koleksi ke kota lain"
+  ],
+  "k": "B",
+  "e": "Teks menyebut penambahan jam buka pada akhir pekan."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "MEDIUM",
+  "l": "SD",
+  "s": "Bacaan: Padi yang ditanam serentak lebih mudah dikendalikan dari hama. Petani di desa itu sepakat menanam bersama pada musim hujan. Mengapa petani menanam padi secara serentak?",
+  "o": [
+   "Agar harga beras naik",
+   "Agar hama lebih mudah dikendalikan",
+   "Agar tidak perlu memupuk"
+  ],
+  "k": "B",
+  "e": "Teks menyebut penanaman serentak memudahkan pengendalian hama."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Bacaan: Jarak antara rumah dan sekolah menentukan moda transportasi yang dipilih siswa. Siswa yang rumahnya dekat umumnya memilih berjalan kaki. Apa yang memengaruhi pilihan transportasi siswa menurut bacaan?",
+  "o": [
+   "Warna seragam sekolah",
+   "Jarak rumah ke sekolah",
+   "Jumlah pelajaran setiap hari"
+  ],
+  "k": "B",
+  "e": "Teks menyebut jarak sebagai faktor penentu."
+ },
+ {
+  "c": "reading",
+  "t": "READING_MC",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Bacaan: Pameran karya siswa dibuka selama tiga hari di aula sekolah. Setiap kelas mendapat satu meja untuk memamerkan hasil kerajinannya. Berapa lama pameran karya siswa berlangsung?",
+  "o": [
+   "Satu hari",
+   "Tiga hari",
+   "Satu minggu"
+  ],
+  "k": "B",
+  "e": "Teks menyebut pameran dibuka selama tiga hari."
+ }
+]

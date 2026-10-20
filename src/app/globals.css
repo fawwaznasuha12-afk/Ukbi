@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+/* Token visual: kertas hangat, tinta gelap, satu aksen. Tanpa bayangan dan gradien. */
+@theme {
+  --color-paper: #f6f5f1;
+  --color-surface: #fffefb;
+  --color-ink: #1e1e1c;
+  --color-muted: #66645e;
+  --color-rule: #dad7ce;
+  --color-accent: #1d5a52;
+  --color-accent-soft: #e3ece9;
+  --color-miss: #9b3d2f;
+  --font-serif: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+@layer base {
+  html { background: var(--color-paper); }
+  body { @apply bg-paper text-ink antialiased; font-family: var(--font-sans); }
+  :focus-visible { outline: 2px solid var(--color-accent); outline-offset: 2px; }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-md bg-accent px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-[#174a44];
+  }
+  .btn-quiet {
+    @apply inline-flex items-center justify-center rounded-md border border-rule bg-surface px-4 py-2 text-sm font-medium text-ink transition-colors hover:bg-[#efede6];
+  }
+  .field {
+    @apply w-full rounded-md border border-rule bg-surface px-3 py-2 text-sm text-ink;
+  }
+  .link { @apply text-accent underline underline-offset-4 decoration-[#9bc0ba] hover:decoration-accent; }
+  .panel { @apply rounded-lg border border-rule bg-surface; }
+  .serif { font-family: var(--font-serif); }
+  .notice { @apply rounded-md border border-rule bg-surface px-4 py-3 text-sm text-muted; }
+  .notice-error { @apply rounded-md border border-[#e3c4bd] bg-[#faf0ed] px-4 py-3 text-sm text-miss; }
+}

@@ -1,0 +1,130 @@
+[
+ {
+  "c": "writing",
+  "t": "ESSAY",
+  "d": "MEDIUM",
+  "l": "SMA_SMK",
+  "s": "Tulis paragraf argumentatif tentang pentingnya menjaga kebersihan lingkungan sekolah.",
+  "r": {
+   "minWords": 50,
+   "maxWords": 150,
+   "minSentences": 4,
+   "requiredKeywords": [
+    "lingkungan"
+   ]
+  },
+  "e": "Penilaian rubrik: jumlah kata, jumlah kalimat, dan kata kunci. Mutu argumen dinilai manusia."
+ },
+ {
+  "c": "writing",
+  "t": "ESSAY",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Tulis paragraf tentang manfaat membaca buku bagi remaja.",
+  "r": {
+   "minWords": 50,
+   "maxWords": 150,
+   "minSentences": 4,
+   "requiredKeywords": [
+    "membaca"
+   ]
+  },
+  "e": "Penilaian rubrik: jumlah kata, jumlah kalimat, dan kata kunci."
+ },
+ {
+  "c": "writing",
+  "t": "ESSAY",
+  "d": "MEDIUM",
+  "l": "SD",
+  "s": "Tulis paragraf yang menjelaskan cara menghemat air di rumah.",
+  "r": {
+   "minWords": 40,
+   "maxWords": 140,
+   "minSentences": 3,
+   "requiredKeywords": [
+    "air"
+   ]
+  },
+  "e": "Penilaian rubrik: jumlah kata, jumlah kalimat, dan kata kunci."
+ },
+ {
+  "c": "writing",
+  "t": "ESSAY",
+  "d": "EASY",
+  "l": "SMP",
+  "s": "Tulis paragraf yang menceritakan pengalaman pertamamu menggunakan transportasi umum.",
+  "r": {
+   "minWords": 40,
+   "maxWords": 150,
+   "minSentences": 3,
+   "requiredKeywords": [
+    "transportasi"
+   ]
+  },
+  "e": "Penilaian rubrik: jumlah kata, jumlah kalimat, dan kata kunci."
+ },
+ {
+  "c": "writing",
+  "t": "ESSAY",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Tulis paragraf tentang pentingnya sarapan bagi pelajar.",
+  "r": {
+   "minWords": 40,
+   "maxWords": 140,
+   "minSentences": 3,
+   "requiredKeywords": [
+    "sarapan"
+   ]
+  },
+  "e": "Penilaian rubrik: jumlah kata, jumlah kalimat, dan kata kunci."
+ },
+ {
+  "c": "writing",
+  "t": "ESSAY",
+  "d": "HARD",
+  "l": "KULIAH",
+  "s": "Tulis paragraf persuasif agar warga mengurangi penggunaan kantong plastik.",
+  "r": {
+   "minWords": 50,
+   "maxWords": 160,
+   "minSentences": 4,
+   "requiredKeywords": [
+    "plastik"
+   ]
+  },
+  "e": "Penilaian rubrik: jumlah kata, jumlah kalimat, dan kata kunci."
+ },
+ {
+  "c": "writing",
+  "t": "ESSAY",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Tulis paragraf tentang peran perpustakaan di desa.",
+  "r": {
+   "minWords": 40,
+   "maxWords": 150,
+   "minSentences": 3,
+   "requiredKeywords": [
+    "perpustakaan"
+   ]
+  },
+  "e": "Penilaian rubrik: jumlah kata, jumlah kalimat, dan kata kunci."
+ },
+ {
+  "c": "writing",
+  "t": "ESSAY",
+  "d": "MEDIUM",
+  "l": "SMA_SMK",
+  "s": "Tulis paragraf tentang manfaat olahraga pagi bagi pekerja kantoran.",
+  "r": {
+   "minWords": 40,
+   "maxWords": 150,
+   "minSentences": 3,
+   "requiredKeywords": [
+    "olahraga"
+   ]
+  },
+  "e": "Penilaian rubrik: jumlah kata, jumlah kalimat, dan kata kunci."
+ }
+]

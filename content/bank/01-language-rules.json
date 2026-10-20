@@ -1,0 +1,282 @@
+[
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Manakah bentuk baku untuk tempat peracikan dan penjualan obat?",
+  "o": [
+   "apotik",
+   "apotek",
+   "apoteek"
+  ],
+  "k": "B",
+  "e": "Bentuk baku yang tercantum dalam KBBI adalah 'apotek'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Manakah bentuk baku untuk ‘persetujuan resmi untuk melakukan sesuatu’?",
+  "o": [
+   "ijin",
+   "izin",
+   "ijjin"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'izin'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Manakah bentuk baku untuk ‘kualitas’ atau tingkat baik buruknya sesuatu?",
+  "o": [
+   "kwalitas",
+   "kualitas",
+   "kwalitet"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'kualitas'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "s": "Manakah bentuk baku untuk orang yang berlatih olahraga untuk bertanding?",
+  "o": [
+   "atlit",
+   "atlet",
+   "atlid"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'atlet'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Manakah bentuk baku untuk ‘jumlah pengulangan suatu peristiwa dalam waktu tertentu’?",
+  "o": [
+   "frekwensi",
+   "frekuensi",
+   "frekuensy"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'frekuensi'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Manakah bentuk baku untuk surat tanda lulus pendidikan?",
+  "o": [
+   "ijasah",
+   "ijazah",
+   "ijazzah"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'ijazah'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Manakah bentuk baku untuk ungkapan yang mempersilakan seseorang?",
+  "o": [
+   "silahkan",
+   "silakan",
+   "silakkan"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'silakan'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Manakah bentuk baku untuk perguruan tinggi yang terdiri atas beberapa fakultas?",
+  "o": [
+   "universiti",
+   "universitas",
+   "universitaz"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'universitas'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Manakah bentuk baku untuk dugaan sementara dalam sebuah penelitian?",
+  "o": [
+   "hipotesa",
+   "hipotesis",
+   "hipotesist"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'hipotesis'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Manakah bentuk baku untuk pelaksanaan langsung suatu teori?",
+  "o": [
+   "praktek",
+   "praktik",
+   "praktikal"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'praktik'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Manakah bentuk baku untuk ‘kegiatan’ dalam konteks umum?",
+  "o": [
+   "aktifitas",
+   "aktivitas",
+   "aktipitas"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'aktivitas'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Manakah bentuk baku untuk sesuatu yang nyata, bukan abstrak?",
+  "o": [
+   "konkrit",
+   "konkret",
+   "konkrite"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'konkret'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Manakah bentuk baku untuk ukuran acuan yang disepakati bersama?",
+  "o": [
+   "standard",
+   "standar",
+   "standart"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'standar'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Manakah bentuk baku untuk inti atau sifat dasar sesuatu?",
+  "o": [
+   "hakekat",
+   "hakikat",
+   "hakikad"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'hakikat'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "KULIAH",
+  "s": "Manakah kalimat yang tanda bacanya tepat untuk daftar tiga jenis buah?",
+  "o": [
+   "Ibu membeli apel jeruk dan mangga.",
+   "Ibu membeli apel, jeruk, dan mangga.",
+   "Ibu, membeli apel jeruk, dan mangga."
+  ],
+  "k": "B",
+  "e": "Unsur rangkaian dipisahkan dengan koma."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "SMP",
+  "s": "Manakah kalimat yang huruf kapitalnya tepat untuk nama kota?",
+  "o": [
+   "Ayah tinggal di bandung.",
+   "Ayah tinggal di Bandung.",
+   "Ayah Tinggal di bandung."
+  ],
+  "k": "B",
+  "e": "Nama kota ditulis dengan huruf kapital di awal."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "SMP",
+  "s": "Manakah kalimat yang tidak mengandung pleonasme (keterangan berlebihan)?",
+  "o": [
+   "Dia mundur ke belakang.",
+   "Dia mendaki gunung.",
+   "Dia maju ke depan."
+  ],
+  "k": "B",
+  "e": "'Mundur' sudah berarti 'ke belakang', 'maju' sudah berarti 'ke depan'. 'Mendaki gunung' tidak berlebihan."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "SMP",
+  "s": "Manakah kalimat yang paling efektif dan tidak berlebihan untuk menyatakan perpindahan ke bawah tangga?",
+  "o": [
+   "Ia turun ke bawah tangga.",
+   "Ia menuruni tangga.",
+   "Ia naik ke atas bukit."
+  ],
+  "k": "B",
+  "e": "'Menuruni' sudah mengandung arah ke bawah, sehingga 'ke bawah' berlebihan."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "s": "Pilih penulisan yang benar untuk melengkapi kalimat: Surat itu ___ kemarin.",
+  "o": [
+   "di kirim",
+   "dikirim",
+   "di-kirim"
+  ],
+  "k": "B",
+  "e": "Awalan 'di-' pada kata kerja ditulis serangkai dengan kata dasarnya."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SD",
+  "s": "Pilih penulisan yang benar untuk ajakan: '___ sekarang!'",
+  "o": [
+   "Pergi lah sekarang!",
+   "Pergilah sekarang!",
+   "Pergi-lah sekarang!"
+  ],
+  "k": "B",
+  "e": "Partikel 'lah' ditulis serangkai dengan kata yang mendahuluinya."
+ }
+]

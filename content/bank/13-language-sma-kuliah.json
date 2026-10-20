@@ -1,0 +1,8 @@
+[
+ {"c":"language_rules","t":"MULTIPLE_CHOICE","d":"MEDIUM","l":"SMA_SMK","s":"Pilih kata penghubung yang tepat: 'Harga mobil ini lebih murah ____ mobil lama.'","o":["daripada","dari","dengan"],"k":"A","e":"Pembanding dalam kalimat 'lebih ... daripada' memakai 'daripada'."},
+ {"c":"language_rules","t":"MULTIPLE_CHOICE","d":"HARD","l":"SMA_SMK","s":"Pilih kalimat yang tidak memiliki subjek ganda.","o":["Para siswa mereka pergi ke lapangan.","Para siswa pergi ke lapangan.","Mereka para siswa pergi ke lapangan."],"k":"B","e":"'Para siswa' sudah menjadi subjek, sehingga 'mereka' berlebihan."},
+ {"c":"language_rules","t":"MULTIPLE_CHOICE","d":"MEDIUM","l":"SMA_SMK","s":"Pilih penulisan yang benar untuk 'siapa pun' atau 'apa pun' dalam kalimat: 'Apa ____ yang terjadi, kami siap.'","o":["apa pun","apapun","apa-pun"],"k":"A","e":"Kata 'pun' ditulis terpisah dari kata sebelumnya dalam bentuk ini."},
+ {"c":"language_rules","t":"MULTIPLE_CHOICE","d":"MEDIUM","l":"KULIAH","s":"Manakah bentuk baku untuk ‘ketepatan hasil ukur terhadap nilai sebenarnya’?","o":["akuret","akurat","akurrat"],"k":"B","e":"Bentuk baku adalah 'akurat'."},
+ {"c":"language_rules","t":"MULTIPLE_CHOICE","d":"MEDIUM","l":"KULIAH","s":"Manakah bentuk baku untuk ‘tingkat kemampuan atau syarat yang dimiliki seseorang’?","o":["kwalifikasi","kualifikasi","kualifikasy"],"k":"B","e":"Bentuk baku adalah 'kualifikasi'."},
+ {"c":"language_rules","t":"MULTIPLE_CHOICE","d":"HARD","l":"KULIAH","s":"Manakah bentuk baku untuk ‘jumlah atau banyaknya sesuatu yang dapat diukur’?","o":["kwantitas","kuantitas","kuantitaz"],"k":"B","e":"Bentuk baku adalah 'kuantitas'."}
+]

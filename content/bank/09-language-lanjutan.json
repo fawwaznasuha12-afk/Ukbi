@@ -1,0 +1,114 @@
+[
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "s": "Manakah bentuk baku untuk ‘bersifat adil dan tidak memihak’?",
+  "o": [
+   "obyektif",
+   "objektif",
+   "objektip"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'objektif'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "s": "Manakah bentuk baku untuk penerapan rencana hingga menjadi tindakan nyata?",
+  "o": [
+   "impelementasi",
+   "implementasi",
+   "implementasih"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'implementasi'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "s": "Manakah bentuk baku untuk tahapan kerja yang sudah ditetapkan secara tertulis?",
+  "o": [
+   "prosedure",
+   "procedur",
+   "prosedur"
+  ],
+  "k": "C",
+  "e": "Bentuk baku adalah 'prosedur'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "s": "Manakah bentuk baku untuk sarana yang disediakan untuk memudahkan kegiatan?",
+  "o": [
+   "fasiltas",
+   "fasilitas",
+   "fasilitaz"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'fasilitas'."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "s": "Manakah penulisan yang benar untuk kata penghubung yang berarti 'sesuai dengan yang'?",
+  "o": [
+   "sebagaimana",
+   "sebagai mana",
+   "sebaga imana"
+  ],
+  "k": "A",
+  "e": "Kata penghubung 'sebagaimana' ditulis serangkai."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "s": "Manakah penulisan yang benar untuk kata yang berarti 'walau bagaimana pun keadaannya'?",
+  "o": [
+   "bagaimana pun",
+   "bagaimanapun",
+   "bagaimana-pun"
+  ],
+  "k": "B",
+  "e": "Kata 'bagaimanapun' ditulis serangkai."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "s": "Pilih kalimat yang tanda baca titik duanya tepat untuk memperkenalkan rincian.",
+  "o": [
+   "Panitia menyediakan tiga hal, makan, minum, dan transportasi.",
+   "Panitia menyediakan tiga hal: makan, minum, dan transportasi.",
+   "Panitia menyediakan: tiga hal makan minum transportasi."
+  ],
+  "k": "B",
+  "e": "Tanda titik dua dipakai setelah kalimat lengkap untuk memperkenalkan rincian."
+ },
+ {
+  "c": "language_rules",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "s": "Manakah bentuk baku untuk ‘keterbukaan dalam proses dan informasi’?",
+  "o": [
+   "transparasi",
+   "transparansi",
+   "transpransi"
+  ],
+  "k": "B",
+  "e": "Bentuk baku adalah 'transparansi', artinya keterbukaan."
+ }
+]

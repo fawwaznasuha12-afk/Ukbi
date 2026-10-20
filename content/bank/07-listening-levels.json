@@ -1,0 +1,122 @@
+[
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "a": "Ibu minta kita membeli dua buku tulis dan satu penggaris.",
+  "s": "Apa yang harus dibeli?",
+  "o": [
+   "Dua buku tulis dan satu penggaris",
+   "Satu buku tulis dan dua penggaris",
+   "Tiga pensil"
+  ],
+  "k": "A",
+  "e": "Transkrip menyebut dua buku tulis dan satu penggaris."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "a": "Ayo kita berangkat ke sekolah lebih pagi, supaya tidak terlambat.",
+  "s": "Apa tujuan ajakan itu?",
+  "o": [
+   "Agar tidak terlambat",
+   "Agar bisa bermain",
+   "Agar libur lebih cepat"
+  ],
+  "k": "A",
+  "e": "Penutur menyebut tujuannya agar tidak terlambat."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "a": "Lomba mewarnai dimulai pukul sepuluh, tetapi pendaftaran ditutup pukul sembilan.",
+  "s": "Kapan pendaftaran ditutup?",
+  "o": [
+   "Pukul sembilan",
+   "Pukul sepuluh",
+   "Pukul sebelas"
+  ],
+  "k": "A",
+  "e": "Transkrip menyebut pendaftaran ditutup pukul sembilan."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "a": "Kami tidak menerima pesanan lewat telepon, hanya lewat aplikasi.",
+  "s": "Bagaimana cara memesan?",
+  "o": [
+   "Lewat telepon",
+   "Lewat aplikasi",
+   "Datang langsung ke toko"
+  ],
+  "k": "B",
+  "e": "Penutur hanya menerima pesanan lewat aplikasi."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "SMA_SMK",
+  "a": "Meskipun harganya naik, permintaan tetap tinggi karena kualitasnya sudah terbukti.",
+  "s": "Apa penyebab permintaan tetap tinggi?",
+  "o": [
+   "Harga yang turun",
+   "Kualitas yang sudah terbukti",
+   "Iklan yang banyak"
+  ],
+  "k": "B",
+  "e": "Penutur menyebut kualitas yang terbukti sebagai alasannya."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "SMA_SMK",
+  "a": "Saya tidak yakin proposal itu bisa selesai minggu ini, tapi saya akan berusaha.",
+  "s": "Apa sikap penutur?",
+  "o": [
+   "Yakin proposal selesai",
+   "Ragu namun berusaha",
+   "Menolak mengerjakan"
+  ],
+  "k": "B",
+  "e": "Penutur ragu, tetapi menyatakan akan berusaha."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "KULIAH",
+  "a": "Berdasarkan data terbaru, angka partisipasi naik, namun kualitas hasilnya belum dievaluasi.",
+  "s": "Apa yang belum dilakukan?",
+  "o": [
+   "Mengevaluasi kualitas hasil",
+   "Menaikkan partisipasi",
+   "Mengumpulkan data"
+  ],
+  "k": "A",
+  "e": "Penutur menyebut kualitas hasil belum dievaluasi."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "a": "Kebijakan tersebut tidak serta-merta mengurangi biaya; dampaknya baru terlihat setelah dua siklus anggaran.",
+  "s": "Kapan dampaknya terlihat?",
+  "o": [
+   "Setelah dua siklus anggaran",
+   "Segera setelah kebijakan diumumkan",
+   "Tidak pernah terlihat"
+  ],
+  "k": "A",
+  "e": "Penutur menyebut dampak baru terlihat setelah dua siklus anggaran."
+ }
+]

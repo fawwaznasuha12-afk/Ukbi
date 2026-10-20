@@ -1,0 +1,59 @@
+[
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "a": "Rapat kita pindah ke hari Kamis.",
+  "s": "Kapan rapat dilaksanakan?",
+  "o": [
+   "Senin",
+   "Kamis"
+  ],
+  "k": "B",
+  "e": "Penutur menyatakan rapat dipindah ke Kamis."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "EASY",
+  "l": "SD",
+  "a": "Harga tiket masuk dua puluh ribu rupiah.",
+  "s": "Berapa harga tiket?",
+  "o": [
+   "Dua puluh ribu rupiah",
+   "Dua belas ribu rupiah"
+  ],
+  "k": "A",
+  "e": "Angka disebut langsung dalam transkrip."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "MEDIUM",
+  "l": "SMP",
+  "a": "Saya tidak setuju, tetapi saya menghormati keputusan itu.",
+  "s": "Sikap penutur adalah...",
+  "o": [
+   "Menolak keputusan",
+   "Tidak setuju namun menghormati"
+  ],
+  "k": "B",
+  "e": "Penutur menyatakan ketidaksetujuan sekaligus penghormatan."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "SMA_SMK",
+  "a": "Kalau hujan terus, panen mungkin mundur, tapi bibit sudah kami siapkan.",
+  "s": "Maksud penutur tentang persiapan adalah...",
+  "o": [
+   "Persiapan dibatalkan",
+   "Persiapan sudah dilakukan",
+   "Persiapan belum dimulai"
+  ],
+  "k": "B",
+  "e": "Frasa 'sudah kami siapkan' menunjukkan persiapan telah berjalan."
+ }
+]

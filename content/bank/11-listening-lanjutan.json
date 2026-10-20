@@ -1,0 +1,92 @@
+[
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "a": "Usulan revisi kami belum dapat disetujui karena dampaknya terhadap anggaran tahun depan belum dihitung secara rinci.",
+  "s": "Apa alasan usulan belum disetujui?",
+  "o": [
+   "Dampak anggaran tahun depan belum dihitung rinci",
+   "Usulan tidak sesuai dengan visi organisasi",
+   "Pengusul tidak memiliki wewenang"
+  ],
+  "k": "A",
+  "e": "Penutur menyebut perhitungan dampak anggaran belum rinci."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "a": "Kami menyadari bahwa perubahan jadwal ini menyulitkan sebagian peserta, dan kami mohon maaf atas ketidaknyamanan tersebut.",
+  "s": "Apa maksud pembicara?",
+  "o": [
+   "Menolak keluhan peserta",
+   "Mengakui kesulitan peserta dan meminta maaf",
+   "Membatalkan seluruh acara"
+  ],
+  "k": "B",
+  "e": "Pembicara mengakui kesulitan dan menyampaikan permohonan maaf."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "a": "Sebelum keputusan final, saya ingin memastikan bahwa semua pemangku kepentingan sudah diberi kesempatan menyampaikan keberatan.",
+  "s": "Apa yang ingin dipastikan pembicara?",
+  "o": [
+   "Keputusan sudah final",
+   "Semua pemangku kepentingan sudah punya kesempatan menyampaikan keberatan",
+   "Tidak ada keberatan dari siapa pun"
+  ],
+  "k": "B",
+  "e": "Pembicara ingin memastikan kesempatan keberatan sudah diberikan kepada semua pihak."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "a": "Hasil survei memang menunjukkan peningkatan kepuasan, tetapi sampel yang kami ambil hanya mencakup kantor pusat.",
+  "s": "Apa keterbatasan survei menurut pembicara?",
+  "o": [
+   "Hasilnya menunjukkan penurunan kepuasan",
+   "Sampelnya hanya mencakup kantor pusat",
+   "Survei tidak dilakukan"
+  ],
+  "k": "B",
+  "e": "Pembicara menyebut sampel hanya dari kantor pusat."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "a": "Kami tidak memaksakan pilihan itu, tetapi konsekuensinya perlu dipahami sejak awal oleh seluruh tim.",
+  "s": "Apa yang ditekankan pembicara?",
+  "o": [
+   "Tim wajib memilih opsi itu",
+   "Konsekuensi pilihan perlu dipahami sejak awal",
+   "Tidak ada konsekuensi dari pilihan itu"
+  ],
+  "k": "B",
+  "e": "Pembicara menekankan pemahaman konsekuensi sejak awal."
+ },
+ {
+  "c": "listening",
+  "t": "MULTIPLE_CHOICE",
+  "d": "HARD",
+  "l": "LANJUTAN",
+  "a": "Penilaian itu bersifat sementara; kami akan meninjaunya kembali setelah data kuartal ketiga tersedia.",
+  "s": "Kapan penilaian akan ditinjau ulang?",
+  "o": [
+   "Segera setelah diumumkan",
+   "Setelah data kuartal ketiga tersedia",
+   "Pada akhir tahun saja"
+  ],
+  "k": "B",
+  "e": "Penutur akan meninjau ulang setelah data kuartal ketiga tersedia."
+ }
+]
